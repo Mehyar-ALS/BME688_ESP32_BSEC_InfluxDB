@@ -3,7 +3,7 @@ PlatformIO Project for ESP32 microcontroller and BME688/BME680 environmental sen
 
 
 ### To get it working with your InfluxDB setup, change thiese variables in src/main.cpp
-1. INFLUXDB_URL
-2. INFLUXDB_DB_NAME
-3. ssid
-4. password
+1. `INFLUXDB_URL`
+2. `INFLUXDB_DB_NAME`
+3. `ssid`
+4. `password`
